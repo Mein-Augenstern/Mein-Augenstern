@@ -6,12 +6,13 @@
 
 **`10 年后端` `361 篇深度笔记` `11 个 Java 微服务` `16 容器编排` `4+ 公开项目`**
 
-工作日在蚂蚁信贷团队做研发；业余与周末：练手项目 star-site（家庭健康场景的全栈尝试：Java 微服务 × LangChain 智能体）+ 300+ 篇的 MUYI 生产级知识库（覆盖金融信贷业务域）。
+工作日在蚂蚁信贷团队做研发；业余与周末：练手项目 [star-site](https://github.com/Mein-Augenstern/star-site-backend)——以家庭场景为业务载体的**平台工程**，内核全是信贷/交易系统同构技术（支付三渠道回调 HMAC 验签 + CAS 幂等 · RocketMQ 事务消息 + 幂等消费 · 数据归属 fail-closed · 分布式 ID 时钟回拨钳制）+ 300+ 篇的 MUYI 生产级知识库（覆盖金融信贷业务域）。
 
 ## 🔥 代表作
 
 | | 项目 | 一句话 |
 |---|---|---|
+| ⭐ | **[star-site-backend](https://github.com/Mein-Augenstern/star-site-backend)** | Spring Cloud Alibaba 微服务平台工程：11 服务两级分层 · 支付回调验签/幂等 · 事务消息 · 域隔离——信贷/交易平台同构技术内核的完整落地（已开源） |
 | 📚 | **[MUYI](https://github.com/Mein-Augenstern/MUYI)** | 后端×AI 生产级知识体系：300+ 篇 · 121 题自测清单 · 追问链深度标尺 · [VitePress 电子书](https://mein-augenstern.github.io/MUYI/) |
 | 🚀 | **[invest](https://github.com/Mein-Augenstern/invest)** | 个人投资记账与纪律工具：uni-app 小程序 + FastAPI + XIRR + 估值分位信号 + 六策略回测 |
 | 🌌 | **[constellation](https://github.com/Mein-Augenstern/constellation)** | 个人 AI 能力星座：ZCode Skills + MCP Servers 统一沉淀（规划 Observatory 管理后台） |
