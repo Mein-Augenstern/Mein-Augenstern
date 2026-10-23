@@ -4,6 +4,8 @@
 >
 > 满纸皑皑飞花雪，是我生生不死心。
 
+**`10 年后端` `361 篇深度笔记` `11 个 Java 微服务` `16 容器编排` `4+ 公开项目`**
+
 工作日在蚂蚁信贷团队做研发；业余与周末：练手项目 star-site（家庭健康场景的全栈尝试：Java 微服务 × LangChain 智能体）+ 300+ 篇的 MUYI 生产级知识库（覆盖金融信贷业务域）。
 
 ## 🔥 代表作
@@ -14,6 +16,12 @@
 | 🚀 | **[invest](https://github.com/Mein-Augenstern/invest)** | 个人投资记账与纪律工具：uni-app 小程序 + FastAPI + XIRR + 估值分位信号 + 六策略回测 |
 | 🌌 | **[constellation](https://github.com/Mein-Augenstern/constellation)** | 个人 AI 能力星座：ZCode Skills + MCP Servers 统一沉淀（规划 Observatory 管理后台） |
 | 🏠 | **[作品集](https://mein-augenstern.github.io/)** | 后端×AI 工程师完整介绍页：技能矩阵 / 工程实践 / 学习轨迹 |
+
+## 📖 深度文章精选（选自 MUYI，每篇从上线代码回写）
+
+- [分布式 ID：从雪花算法到生产实现](https://github.com/Mein-Augenstern/MUYI/blob/master/C-架构/分布式系统/分布式ID-从雪花算法到生产实现.md)
+- [支付回调的 HMAC 验签与幂等设计](https://github.com/Mein-Augenstern/MUYI/blob/master/A-后端内核/框架与中间件/安全/支付回调的HMAC验签与幂等设计.md)
+- [缓存穿透、击穿、雪崩](https://github.com/Mein-Augenstern/MUYI/blob/master/A-后端内核/框架与中间件/redis/缓存穿透-击穿-雪崩.md)
 
 ## 🛠 技术栈
 
