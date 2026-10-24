@@ -20,7 +20,7 @@
 
 ## 📖 深度文章精选（选自 MUYI，每篇从上线代码回写）
 
-- [分布式 ID：从雪花算法到生产实现](https://github.com/Mein-Augenstern/MUYI/blob/master/C-架构/分布式系统/分布式ID-从雪花算法到生产实现.md)
+- [分布式 ID：从雪花算法到生产实现](https://github.com/Mein-Augenstern/MUYI/blob/master/C-架构/分布式系统/分布式ID/分布式ID-从雪花算法到生产实现.md)
 - [支付回调的 HMAC 验签与幂等设计](https://github.com/Mein-Augenstern/MUYI/blob/master/A-后端内核/框架与中间件/安全/支付回调的HMAC验签与幂等设计.md)
 - [缓存穿透、击穿、雪崩](https://github.com/Mein-Augenstern/MUYI/blob/master/A-后端内核/框架与中间件/redis/缓存穿透-击穿-雪崩.md)
 
