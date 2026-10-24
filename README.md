@@ -13,7 +13,7 @@
 | | 项目 | 一句话 |
 |---|---|---|
 | ⭐ | **[star-site-backend](https://github.com/Mein-Augenstern/star-site-backend)** | Spring Cloud Alibaba 微服务平台工程：11 服务两级分层 · 支付回调验签/幂等 · 事务消息 · 域隔离——信贷/交易平台同构技术内核的完整落地（已开源） |
-| 📚 | **[MUYI](https://github.com/Mein-Augenstern/MUYI)** | 后端×AI 生产级知识体系：300+ 篇 · 121 题自测清单 · 追问链深度标尺 · [VitePress 电子书](https://mein-augenstern.github.io/MUYI/) |
+| 📚 | **[MUYI](https://github.com/Mein-Augenstern/MUYI)** | 后端×AI 生产级知识体系：342 篇 · 113 题自测 · 追问链深度标尺 · AI 辅助全库治理（违规降 84%）· [VitePress 电子书](https://mein-augenstern.github.io/MUYI/) |
 | 🚀 | **[invest](https://github.com/Mein-Augenstern/invest)** | 个人投资记账与纪律工具：uni-app 小程序 + FastAPI + XIRR + 估值分位信号 + 六策略回测 |
 | 🌌 | **[constellation](https://github.com/Mein-Augenstern/constellation)** | 个人 AI 能力星座：ZCode Skills + MCP Servers 统一沉淀（规划 Observatory 管理后台） |
 | 🏠 | **[作品集](https://mein-augenstern.github.io/)** | 后端×AI 工程师完整介绍页：技能矩阵 / 工程实践 / 学习轨迹 |
