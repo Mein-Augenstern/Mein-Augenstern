@@ -28,8 +28,6 @@
 
 `Java` `Spring Cloud Alibaba` `MySQL` `Redis` `Kafka` `RocketMQ` · `Python` `FastAPI` `LangChain` `LangGraph` · `Vue3` `TypeScript` `uni-app` · `MCP` `RAG` `Agent` `K8s`
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mein-Augenstern&show_icons=true)
-
 ---
 
 ⭐ 如果 MUYI 对你有帮助，欢迎 star——commit 记录即活性证明。
