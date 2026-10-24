@@ -1,4 +1,4 @@
-# 👋 你好，我是 Xiaopu（@Mein-Augenstern）
+# 👋 你好，我是 Muyi（@Mein-Augenstern）
 
 > **蚂蚁信贷团队 · 后端 × AI 工程师** ｜ 2016 年入行，十年后端，正在把大模型工程化打成第二把武器
 >
