@@ -23,6 +23,7 @@
 - [分布式 ID：从雪花算法到生产实现](https://github.com/Mein-Augenstern/MUYI/blob/master/C-架构/分布式系统/分布式ID/分布式ID-从雪花算法到生产实现.md)
 - [支付回调的 HMAC 验签与幂等设计](https://github.com/Mein-Augenstern/MUYI/blob/master/A-后端内核/框架与中间件/安全/支付回调的HMAC验签与幂等设计.md)
 - [缓存穿透、击穿、雪崩](https://github.com/Mein-Augenstern/MUYI/blob/master/A-后端内核/框架与中间件/redis/缓存穿透-击穿-雪崩.md)
+- [异步命令框架：从令牌认领到三模式执行](https://github.com/Mein-Augenstern/MUYI/blob/master/C-%E6%9E%B6%E6%9E%84/%E5%88%86%E5%B8%83%E5%BC%8F%E7%B3%BB%E7%BB%9F/%E5%BC%82%E6%AD%A5%E5%91%BD%E4%BB%A4%E6%A1%86%E6%9E%B6-%E4%BB%8E%E4%BB%A4%E7%89%8C%E8%AE%A4%E9%A2%86%E5%88%B0%E4%B8%89%E6%A8%A1%E5%BC%8F%E6%89%A7%E8%A1%8C.md)
 
 ## 🛠 技术栈
 
