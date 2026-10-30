@@ -13,7 +13,7 @@
 | | 项目 | 一句话 |
 |---|---|---|
 | ⭐ | **[star-site-backend](https://github.com/Mein-Augenstern/star-site-backend)** | Spring Cloud Alibaba 微服务平台工程：11 服务两级分层 · 支付回调验签/幂等 · 事务消息 · 域隔离——信贷/交易平台同构技术内核的完整落地（已开源；姊妹仓：[frontends](https://github.com/Mein-Augenstern/star-site-frontends) 小程序/Web 双端 · [ai-service](https://github.com/Mein-Augenstern/star-site-platform-ai-service) LangChain 智能体） |
-| 🧩 | **[star-site-components](https://github.com/Mein-Augenstern/star-site-components)** | 通用组件库三件套：雪花序列 / 异步命令 / 分布式锁——core+starter 双模块 · Mapper XML 表规范 · 118 测试 + 真库 IT · Apache-2.0（已开源，star-site 全服务生产接入） |
+| 🧩 | **[star-site-components](https://github.com/Mein-Augenstern/star-site-components)** | 通用组件库三件套：雪花序列 / 异步命令 / 分布式锁——core+starter 双模块 · Mapper XML 表规范 · 120 测试 + 真库 IT · Apache-2.0（已开源，star-site 全服务生产接入） |
 | 📚 | **[MUYI](https://github.com/Mein-Augenstern/MUYI)** | 后端×AI 生产级知识体系：347 篇 · 110 题自测 · 追问链深度标尺 · AI 辅助全库治理（违规降 84%）· [VitePress 电子书](https://mein-augenstern.github.io/MUYI/) |
 | 🚀 | **[invest](https://github.com/Mein-Augenstern/invest)** | 个人投资记账与纪律工具：uni-app 小程序 + FastAPI + XIRR + 估值分位信号 + 六策略回测 + Vision OCR 标的识别 |
 | 🌌 | **[constellation](https://github.com/Mein-Augenstern/constellation)** | 个人 AI 能力星座：ZCode Skills + MCP Servers 统一沉淀（规划 Observatory 管理后台） |
